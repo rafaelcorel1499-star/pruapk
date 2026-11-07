@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp" android:height="48dp"
+    android:viewportWidth="48" android:viewportHeight="48">
+    <!-- Tirilla de factura con borde en zigzag -->
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="2.6" android:strokeLineJoin="round"
+        android:pathData="M12,6 H36 V42 L32,39 L28,42 L24,39 L20,42 L16,39 L12,42 Z" />
+    <path android:strokeColor="#FFFFFF" android:strokeWidth="2.6" android:strokeLineCap="round"
+        android:pathData="M18,15 H30 M18,22 H30 M18,29 H25" />
+    <path android:fillColor="#FFFFFF"
+        android:pathData="M27,28 h5 v2.4 h-5 z" />
+</vector>

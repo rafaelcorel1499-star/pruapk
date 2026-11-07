@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.LaPaola" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#F3E9DE</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#FFFFFF</item>
+    </style>
+</resources>

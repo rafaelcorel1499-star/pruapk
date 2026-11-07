@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.KeyGen" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
